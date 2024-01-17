@@ -28,4 +28,5 @@ On the top left corner, go to "Edit", then "Preferences" and select "Themes".
 Now select the theme you want to use.
 
 Make sure to press "Apply", otherwise the theme will not the activated.
+
 (Guide taken from https://steamcommunity.com/sharedfiles/filedetails/?id=2705325572)
