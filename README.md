@@ -4,9 +4,10 @@ Modified "MIX" of Libresprite Neutral Dark Theeme and Aseprite Dark Theme
 
 https://mit-license.org/ 
 
-![1](https://github.com/ZeroAlvein/Aseprite-Zero-Dark-Theme/assets/99673761/8b27ed53-914d-43e3-8ab1-5876200b0b53)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/2b317623-2619-4d3b-8488-34cb9d745c18" />
 
-![2](https://github.com/ZeroAlvein/Aseprite-Zero-Dark-Theme/assets/99673761/3ce71578-5a05-4347-bd7c-60797e72a17c)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ecfc9c5a-2b26-4553-96d6-1b55553f1e77" />
+
 
 Installing Themes
 
