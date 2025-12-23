@@ -4,7 +4,8 @@ Modified "MIX" of Libresprite Neutral Dark Theeme and Aseprite Dark Theme
 
 https://mit-license.org/ 
 
-<img width="1920" height="1080" alt="X538JY" src="https://github.com/user-attachments/assets/c30a679d-3283-4763-befd-46673c19311a" />
+<img width="1920" height="1080" alt="3NkZ_V" src="https://github.com/user-attachments/assets/7890ca6c-4e55-4be4-ae3b-4b5460aed612" />
+
 
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ecfc9c5a-2b26-4553-96d6-1b55553f1e77" />
 
